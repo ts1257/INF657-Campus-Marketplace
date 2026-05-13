@@ -100,4 +100,3 @@ Example document:
 
 - Firebase configuration is currently committed in the project config and should be moved to environment variables for production use.
 - Remote image URLs depend on the availability and validity of external image hosts.
-- The one-page PDF reflection and demo video are not part of this repository and should be prepared separately for final submission.
